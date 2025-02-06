@@ -1,0 +1,6 @@
+pandas
+numpy
+isodate
+matplotlib
+nltk
+scikit-learn 
