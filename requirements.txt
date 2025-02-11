@@ -4,3 +4,4 @@ isodate
 matplotlib
 nltk
 scikit-learn 
+pytesseract
