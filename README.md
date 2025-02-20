@@ -1,4 +1,4 @@
-# Movie Descriptor Project
+# SenseTheScene
 
 ## Project Overview
 The **Movie Descriptor Project** is designed to create an audio description system for movies, helping visually impaired users by generating detailed scene narrations. The system processes video content, recognizes objects, actions, and activities, and provides emotionally engaging audio descriptions.
